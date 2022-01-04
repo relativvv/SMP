@@ -1,0 +1,6 @@
+name: Smp
+version: '${project.version}'
+main: de.relativv.smp.main.Smp
+api-version: 1.18
+authors: [ relativv ]
+description: A survival multiplayer plugin
